@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Hobo Acaademic"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Articles.JPG"
   bio    : "An hobo academic interested in academic geography's intersections with various theories and geospatial technologies. Also creating a space for other hobo academics."
   links:
     - label: "Website"
