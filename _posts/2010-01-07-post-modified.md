@@ -1,6 +1,6 @@
 ---
 title: "Template for the hobo"
-last_modified_at: 2020-11-26
+date: 2020-11-26
 categories:
   - Blog
 tags:
