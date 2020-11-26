@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Hobo Acacademic"
+  name   : "Hobo Acaademic"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "An hobo academic interested in academic geography's intersections with various geospatial technology and creating a space for other hobo academics."
   links:
