@@ -1,5 +1,6 @@
 ---
-title: "Post: Standard"
+title: "Standard with excerpt separation markdown template for Hobo"
+date: 2020-11-26
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
