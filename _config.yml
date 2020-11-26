@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Hobo Academic
+title: The Hobo Academic's Conflicted Inscriptions
 email: conflictinginscriptions@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
- An hobo academic interested in academic geography's intersections with various geospatial technology and creating a space for other hobo academics. 
+ An hobo academic interested in academic geography's intersections with various theories and geospatial technologies. Also creating a space for other hobo academics. 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Hobo Acaademic"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An hobo academic interested in academic geography's intersections with various geospatial technology and creating a space for other hobo academics."
+  bio    : "An hobo academic interested in academic geography's intersections with various theories and geospatial technologies. Also creating a space for other hobo academics."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
