@@ -7,4 +7,4 @@ tags:
   - general
   - update
 ---
-Thanks for dropping through to visit and test out how this blog is doing!
+Thanks for dropping through to visit and test out how this blog is doing! This site is currently under construction and will (fingers crossed) be ready soon. 
