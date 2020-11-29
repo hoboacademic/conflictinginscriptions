@@ -16,7 +16,7 @@
 title: The Hobo Academic's Conflicted Inscriptions
 email: conflictinginscriptions@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
-Hobo Academic interested in academic geography's intersections with various decolonial and post-colonial theories and geospatial technologies. 
+Hobo Academic interested in academic geography's intersections with decolonialism, postcolonialism and geospatial technologies. 
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Hobo Academic"
   avatar : "/assets/images/Articles.JPG"
-  bio    : "Hobo Academic is interested in academic geography's intersections with decolonialism and post-colonialism and geospatial technologies."
+  bio    : "Hobo Academic is interested in academic geography's intersections with decolonialism, post-colonialism and geospatial technologies."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
