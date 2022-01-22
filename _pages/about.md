@@ -4,4 +4,4 @@ title: "About"
 ---
 
 
-You can contact Hobo Academic via email at conflictinginscriptions@tutanota.com
+You can contact the Hobo Academic via email at conflictinginscriptions@tutanota.com
