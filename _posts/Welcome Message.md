@@ -1,5 +1,5 @@
 ---
-title: "Welcome from Hobo Academic!"
+title: "Welcome from a Hobo Academic!"
 date: 2022-01-22
 categories:
   - blog
