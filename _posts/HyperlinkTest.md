@@ -9,6 +9,6 @@ tags:
 link: https://geographyandethics.wordpress.com/2011/08/23/interview-with-dr-joel-wainwright-the-ohio-state-university/
 ---
 
-Test for **link posts**.  This link goes to an interesting interview with Joel Wainwright discussing geographic research.  
+Test for **link posts**.  This link goes to an interesting interview with Joel Wainwright discussing geographic research design and methods.  
 
 
