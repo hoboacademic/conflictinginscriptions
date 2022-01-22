@@ -1,6 +1,6 @@
 ---
 title: "Template for the hobo"
-date: 2020-11-30
+date: 2022-01-22
 categories:
   - Blog
 tags:
@@ -9,7 +9,5 @@ tags:
   - standard
   - template
 ---
+This is my first post about my work.  It's a bit bizarre posting into the vast expanse (some may say void) that is the internet.  
 
-This post is a test template designed for the hobo to use again and again (and hoping to learn how to switch it off easily).
-
-A test to see how this is timed for readability. 
