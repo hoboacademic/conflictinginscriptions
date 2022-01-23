@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Hobo Academic"
   avatar : "/assets/images/Articles.JPG"
-  bio    : "Hobo Academic is completing a PhD in geography."
+  bio    : "I'm a Hobo Academic who is completing a PhD in geography. I'm interested in geospatial technology, geospatial data ethics and digital justice."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
